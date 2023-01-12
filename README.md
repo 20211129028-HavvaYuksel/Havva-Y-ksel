@@ -1,2 +1,2 @@
-# Havva-Y-ksel
+# Havva-Yuksel
 Haber Sitesi
